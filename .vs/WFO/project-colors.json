@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61afa452-97d7-43f6-834e-b114567a7525": {
+      "ProjectGuid": "61afa452-97d7-43f6-834e-b114567a7525",
+      "DisplayName": "WFO",
+      "ColorIndex": 0
+    },
+    "10a8d49e-825f-4c8a-a48c-f2c57b876bde": {
+      "ProjectGuid": "10a8d49e-825f-4c8a-a48c-f2c57b876bde",
+      "DisplayName": "WFO.Funciones",
+      "ColorIndex": 1
+    },
+    "e25682b0-850c-42fe-a836-eca3bb51cdf8": {
+      "ProjectGuid": "e25682b0-850c-42fe-a836-eca3bb51cdf8",
+      "DisplayName": "WFO.Negocio.Procesos.Operacion",
+      "ColorIndex": 2
+    },
+    "01aac009-9553-4c60-8378-caa12a0ba2e6": {
+      "ProjectGuid": "01aac009-9553-4c60-8378-caa12a0ba2e6",
+      "DisplayName": "WFO.AccesoDatos",
+      "ColorIndex": 3
+    },
+    "d018aa1e-d129-4f2f-8ddf-6d5b2832d4ec": {
+      "ProjectGuid": "d018aa1e-d129-4f2f-8ddf-6d5b2832d4ec",
+      "DisplayName": "WFO.Negocio.Procesos.Promotoria",
+      "ColorIndex": 4
+    },
+    "abb698e8-c882-4ef5-a427-d93fa14e8544": {
+      "ProjectGuid": "abb698e8-c882-4ef5-a427-d93fa14e8544",
+      "DisplayName": "WFO.Negocio",
+      "ColorIndex": 5
+    },
+    "f2c1fb74-74a5-4989-bfc1-57de707ee6c1": {
+      "ProjectGuid": "f2c1fb74-74a5-4989-bfc1-57de707ee6c1",
+      "DisplayName": "WFO.Propiedades",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "8959a30d-74c0-415c-8f81-99ac18a040b2": {
+      "ProjectGuid": "8959a30d-74c0-415c-8f81-99ac18a040b2",
+      "DisplayName": "WFO.Seguridad",
+      "ColorIndex": 7
+    },
+    "4849ffe4-0c3a-4c5f-b612-b745f969ad4a": {
+      "ProjectGuid": "4849ffe4-0c3a-4c5f-b612-b745f969ad4a",
+      "DisplayName": "WFO.RegistraLog",
+      "ColorIndex": 8
+    },
+    "001550e3-c9e5-4c9b-9809-95bb3e3799ed": {
+      "ProjectGuid": "001550e3-c9e5-4c9b-9809-95bb3e3799ed",
+      "DisplayName": "WFO.Negocio.Procesos.SupervisionGeneral",
+      "ColorIndex": 9
+    },
+    "1d08c9f0-1009-45ca-8ba5-5c22674a61c1": {
+      "ProjectGuid": "1d08c9f0-1009-45ca-8ba5-5c22674a61c1",
+      "DisplayName": "WFO.Negocio.Procesos.Supervision",
+      "ColorIndex": 10
+    },
+    "cffd8f94-007e-4eda-83f1-52371adb2877": {
+      "ProjectGuid": "cffd8f94-007e-4eda-83f1-52371adb2877",
+      "DisplayName": "WFO.Negocio.Procesos.Operacion.CapturaMasiva",
+      "ColorIndex": 11
+    },
+    "848bf69a-ee1f-4101-b065-d084cd493fa6": {
+      "ProjectGuid": "848bf69a-ee1f-4101-b065-d084cd493fa6",
+      "DisplayName": "WFO.Negocio.Procesos.CitasMedicas",
+      "ColorIndex": 12
+    },
+    "809df7d2-8f44-41d9-9493-39295236d1da": {
+      "ProjectGuid": "809df7d2-8f44-41d9-9493-39295236d1da",
+      "DisplayName": "WFO.Negocio.Cobranza",
+      "ColorIndex": 13
+    },
+    "fbf8c1f6-69d6-45d5-9cf1-49cdfeda0169": {
+      "ProjectGuid": "fbf8c1f6-69d6-45d5-9cf1-49cdfeda0169",
+      "DisplayName": "WFO.IU",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

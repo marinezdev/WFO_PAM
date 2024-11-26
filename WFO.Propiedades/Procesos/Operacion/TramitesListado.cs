@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace WFO.Propiedades.Procesos.Operacion
+{
+    public class TramitesListado
+    {
+        public int IdTramite { get; set; }
+        public DateTime FechaRegistro { get; set; }
+        public string Folio { get; set; }
+        public string TipoFlujo { get; set; }
+        public string TipoServicio { get; set; }
+        public string Contratante { get; set; }
+        public DateTime FechaFirmaSolicitud { get; set; }
+        public string StatusTramite { get; set; }
+        public string NumeroOrden { get; set; }
+        public string NumeroPoliza { get; set; }
+        public string PromotoriaClave { get; set; }
+        public string PromotoriaZonaClave { get; set; }
+        public string SuspensionMotivos { get; set; }
+        public string ObservacionesPrivadas { get; set; }
+        public string ObservacionesPublicas { get; set; }
+    }
+}
